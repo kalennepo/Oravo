@@ -1,4 +1,4 @@
-package com.kalen.audiobook;
+package io.github.kalennepo.audiobook;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
