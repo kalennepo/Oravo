@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+app:
+  bucket-name: your-bucket-name
+  awsRegion: us-east-2
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
