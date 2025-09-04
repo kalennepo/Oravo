@@ -1,5 +1,5 @@
 # Oravo
-Oravo is a modern ereader that brings ebooks to life with real-time, natural-sounding AI voice narration.  
+Oravo is a modern ereader app that brings ebooks to life with real-time, natural-sounding AI voice narration.  
 Designed with accessibility at its core, Oravo makes reading more flexible and inclusive.
 
 Features:
